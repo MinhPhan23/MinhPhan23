@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Minh
-- I’m a full-time weeb 🤓
-- Apart from being a full-time weeb, I'm a CompSci student at a University 🤪
+- 👋 Hi, I’m Minh, a Game-Jam enjoyer from University of Manitoba
 
 <!---
 MinhPhan23/MinhPhan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
