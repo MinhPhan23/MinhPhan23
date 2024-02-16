@@ -9,6 +9,7 @@
 </div>
 
 ---
+
 ### :technologist: About Me :
 
 - 🧑‍🎓 I am pursuing a Computer Science Co-op Honours Degree at the University of Manitoba
@@ -17,3 +18,11 @@
 - 💻 I am a Hackathons and Game Jams enjoyed
 - 📖 I was a research assistant at the UM Human-Computer Interaction Lab and Inter-Disciplinary Evolving Algorithmic Science Lab
 - ~~🤓 I am a weeb~~
+
+---
+
+### :fire: Some weird stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinhPhan23&theme=dark)](https://git.io/streak-stats)
+
+---
