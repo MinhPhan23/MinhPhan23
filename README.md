@@ -15,7 +15,7 @@
 - 🧑‍🎓 I am pursuing a Computer Science Co-op Honours Degree at the University of Manitoba
 - 👨‍🏫 I am a tutor
 - 🧗 I am a rock climber
-- 💻 I am a Hackathons and Game Jams enjoyed
+- 💻 I am a Hackathons and Game Jams enjoyer
 - 📖 I was a research assistant at the UM Human-Computer Interaction Lab and Inter-Disciplinary Evolving Algorithmic Science Lab
 - ~~🤓 I am a weeb~~
 
